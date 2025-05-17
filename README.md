@@ -1,6 +1,4 @@
-![Header](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png)
-
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Siddharth Pal
 
 🎓 2nd-year B.Tech Computer Science student at **Guru Ghasidas University (GGU), Bilaspur, Chhattisgarh**
 
@@ -33,6 +31,7 @@
 ## 📊 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
@@ -47,16 +46,11 @@
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🌐 [Portfolio](https://yourportfolio.com) (if available)
-- 📧 Email: yourname@email.com
+- 💼 [LinkedIn](https://linkedin.com/in/siddharth-pal-450a86346)
+- 📧 Email: palsiddharth919@email.com
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
-![Footer](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/footer.png)
+> "Code is like humor. When you have to explain it, it’s bad." — Codie House
 
 ---
-
-**Note**: Replace all `yourusername`, `yourname@email.com`, and links with your actual details. Add images (`banner.png`, `footer.png`) to a folder named `assets` in your GitHub repository for visuals.
